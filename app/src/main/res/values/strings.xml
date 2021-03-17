@@ -2,8 +2,18 @@
     <string name="app_name">About Me</string>
     <string name="pedro_ss">Pedro de S. Silva</string>
     <string name="yellow_star">yellow_star</string>
-    <string name="bio">Hi my name is Pedro.
-    \n I love sushi, tecnology and nature too.
-    \n I'm a web developer
-    \n but learning Android.</string>
+    <string name="bio">
+        \n Oi meu nome é Pedro, sou um estudante de desenvolvimento de software.
+        \n sou apaixonado por música e sei tocar bateria.
+        \n aprecio um bom filme e gosto muito de aprender coisas novas.
+        \n acredito no equilíbrio entre tecnologia e natureza.
+        \n desvio das ilusões da mídia e sigo meus objetivos com afinco.
+        \n gosto de jogar videogames de vez em quando e estou reaprendendo a desenhar.
+        \n sou formado como técnico em informática pelo IFPE de Jaboatão dos Guararapes,
+        \n e atualmente estudo análise e desenvolvimento de sistemas no mesmo.
+        \n esse app é resultado de um curso que estou fazendo na Udacity.
+        \n meu mantra atual é:
+        \n Fortis Fortuna Adiuvat.
+        \n
+    </string>
 </resources>
